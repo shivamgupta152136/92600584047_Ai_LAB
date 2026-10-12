@@ -1,0 +1,2 @@
+# 92600584047_Ai_LAB
+AI LOGICAL Programs
