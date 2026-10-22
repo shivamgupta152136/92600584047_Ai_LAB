@@ -1,4 +1,4 @@
-#2. Implement Breadth First Search (for Water Jug problem).
+#3. Implement Depth First Search (for 8 puzzle problem).
 #92600584047
 
 def get_neighbours (state):
