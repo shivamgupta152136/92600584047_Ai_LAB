@@ -1,4 +1,4 @@
-#Tower of Hanoi
+#5. Write a program to solve Tower of Hanoi problem
 
 def tower_of_hanoi(n,source,helper,destination):
     if n==1:
