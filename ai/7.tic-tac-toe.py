@@ -1,5 +1,5 @@
-#two player game - tic-tac-toe
-#using heuristic function
+#7. Implement Two Player Game - Tic-Tac-Toe (Using Heuristic Function).
+# enrollment no = 92600584047
 
 #dislplay the board
 def display(board):
