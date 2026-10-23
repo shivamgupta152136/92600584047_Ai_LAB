@@ -1,3 +1,7 @@
+#8. Write a program to solve N-Queens problem.
+# enrollment no = 92600584047
+
+
 #no two queens can be in the same row.
 #no two queens can be in the same column.
 #no two queens can be on the same diagonal.
