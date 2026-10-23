@@ -1,5 +1,5 @@
 #6. Write a program to implement Single Player Game (Using Heuristic Function).
-#92600584047
+# enrollment no = 92600584047
 
 goal = (1, 2, 3,
         4, 5, 6,
