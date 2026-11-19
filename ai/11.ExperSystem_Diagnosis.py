@@ -1,4 +1,5 @@
 #11. Develop an Expert system for medical diagnosis.
+# name = shivam gupta
 # enrollment no = 92600584047
 
 print('--------------Expert System------------------')
