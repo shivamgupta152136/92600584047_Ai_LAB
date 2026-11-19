@@ -1,4 +1,5 @@
 #6. Write a program to implement Single Player Game (Using Heuristic Function).
+# name = shivam gupta
 # enrollment no = 92600584047
 
 goal = (1, 2, 3,
